@@ -102,3 +102,7 @@ This project is a simple camera application built using SwiftUI and AVFoundation
 3. Grant camera permissions when prompted.
 
 4. Start capturing photos!etake the picture
+# Video Demo
+Watch the demo of the CameraApp in action:
+[![CameraApp Demo](https://img.youtube.com/vi/vTaR5zflxZw/0.jpg)](https://youtu.be/vTaR5zflxZw)
+
